@@ -1,7 +1,7 @@
 {
   "name": "dev-workflow",
-  "version": "0.1.0",
-  "description": "Skills for everyday development workflow, such as commit message conventions.",
+  "version": "0.2.0",
+  "description": "提供日常開發工作流程技能，涵蓋 Git worktree 管理與提交訊息慣例。",
   "author": {
     "name": "arisu",
     "email": "arisuokayokay@gmail.com"
